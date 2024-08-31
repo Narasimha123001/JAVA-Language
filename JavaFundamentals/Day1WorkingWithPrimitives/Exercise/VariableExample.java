@@ -35,3 +35,11 @@ public class VariableExample {
     }
 
 }
+    /*
+    Object 1 Instance Variable: 5
+    object 2 Instance Variable: 7
+    Class Variable: 100
+    Class Name: VariableExample
+
+
+     */
