@@ -1,5 +1,5 @@
-package com.JAVAFUNDAMENTALS.java.OOPS.Methods;
-
+package com.JavaFundamentals.OOPS.Methods.Exercise;
+//ith return type and without parameter
 public class Employee3 {
     int Salary;
     byte Experience = 3;
