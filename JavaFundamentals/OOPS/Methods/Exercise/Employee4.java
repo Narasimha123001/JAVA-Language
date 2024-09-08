@@ -1,4 +1,4 @@
-package com.JAVAFUNDAMENTALS.java.OOPS.Methods;
+package com.JavaFundamentals.OOPS.Methods.Exercise;
 
 public class Employee4 {
     String displayDetails(String Name,byte Age){
