@@ -14,7 +14,7 @@ public class Car {
     void display(){
         System.out.println("Car Brand: "+brand);
         System.out.println("Car model: "+model);
-        System.out.println("Car ManufactringYear: "+year);
+        System.out.println("Car ManufactureYear: "+year);
         System.out.println("Car price: "+price);
         System.out.println("Car color: "+Color);
         System.out.println();
