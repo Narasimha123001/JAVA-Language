@@ -1,4 +1,4 @@
-package com.JavaFundamentals.Strings;
+package com.JavaFundamentals.Strings.Exerisce;
 
 public class StringTest {
     public static void main(String[] args) {
