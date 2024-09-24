@@ -9,7 +9,7 @@ public class StaticVariables {
 
     public StaticVariables(){
         Number1++;
-        instanceNumber2++;
+        instanceNumber2++ ;
     }
 
     public static void main(String[] args) {
