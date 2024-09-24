@@ -7,7 +7,7 @@ package com.JavaFundamentals.StaticMembers;
 public class StaticBlocks {
     //static variables
     static int x;
-    static int y;
+    static  int y;
 
     //static block
     static {
