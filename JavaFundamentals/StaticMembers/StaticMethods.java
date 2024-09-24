@@ -8,7 +8,7 @@ public class StaticMethods {
 
     public static void main(String[] args) {
         int result = StaticMethods.add(5,7);
-        System.out.println("result: "+result);
+        System.out.println("result: " +result);
     }
 
 }
