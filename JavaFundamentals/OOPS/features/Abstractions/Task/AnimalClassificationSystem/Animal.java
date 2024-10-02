@@ -11,7 +11,7 @@ public abstract class Animal {
     }
 
     abstract void  makeSound();
-    abstract void move();
+    abstract void  move();
 
     void displayDetails(){
         System.out.println("Name of animal :"+name);
