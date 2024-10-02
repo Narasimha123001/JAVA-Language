@@ -9,7 +9,7 @@ public class AnimalTest {
         AnimalImp animalImp = new Dog("sai",(byte) 9);
         animalImp.displayDetails();
         animalImp.makeSound();
-        animalImp.move();
+         animalImp.move();
 
         AnimalImp animalImp1 = new Bird("ravi",(byte) 5);
         animalImp1.displayDetails();
