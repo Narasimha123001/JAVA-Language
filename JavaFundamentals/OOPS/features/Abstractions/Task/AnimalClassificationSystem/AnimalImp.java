@@ -8,7 +8,7 @@ public class AnimalImp extends Animal{
     }
 
     @Override
-    void makeSound() {
+    void  makeSound() {
         System.out.println("Animal is stars making Sound....");
     }
 
