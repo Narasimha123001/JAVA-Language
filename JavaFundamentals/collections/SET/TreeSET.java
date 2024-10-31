@@ -19,5 +19,5 @@ public class TreeSET {
 }
 
         /*
-        TreeSet: its is order doesn't allow the duplicates
+        TreeSet: its is order doesn't allow the duplicates and also Alphabetic Order
          */
