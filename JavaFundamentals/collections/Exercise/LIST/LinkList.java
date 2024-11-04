@@ -22,6 +22,8 @@ public class LinkList {
         //operation 2: retrieve the first customer
         System.out.println("Fist Customer :"+ customerLinkedList.get(0));
 
+
+        
         //operation 3: remove the  element
         System.out.println("After removal");
         customerLinkedList.remove(2);
