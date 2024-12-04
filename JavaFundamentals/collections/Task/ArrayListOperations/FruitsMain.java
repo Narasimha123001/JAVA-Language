@@ -4,7 +4,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class FruitsMain {
-    public static void main(String[] args) {
+    public static void main(String[] args)
+    {
         Fruit fruit1 = new Fruit(1, "Apple");
         Fruit fruit2 = new Fruit(2, "Banana");
         Fruit fruit3 = new Fruit(3, "Grape");
